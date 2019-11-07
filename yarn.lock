@@ -5938,6 +5938,16 @@ leaflet-craft@1.0.0:
     turf-intersect "~3.0.12"
     turf-polygon "~1.0.3"
 
+leaflet-freedraw@2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/leaflet-freedraw/-/leaflet-freedraw-2.12.0.tgz#9dd6677cf2d061c40bdea77f165b76a06f501680"
+  integrity sha512-8b1xIaLX6QgwiPe0s6WIMfqcI969Gg3fnQCUe/om/EYMTab0zHLfFVWzQgTOXsLwOF/gfCrE2D12/BpW1dw8iw==
+  dependencies:
+    clipper-lib "~6.2.1"
+    regenerator-runtime "^0.13.2"
+    turf-intersect "~3.0.12"
+    turf-polygon "~1.0.3"
+
 leaflet@^1.1.0:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.5.1.tgz#9afb9d963d66c870066b1342e7a06f92840f46bf"
@@ -8146,6 +8156,11 @@ react-is@^16.8.1, react-is@^16.8.4:
 "react-leaflet-craft@git://github.com/Sagarpreet/react-leaflet-craft#master":
   version "1.0.0"
   resolved "git://github.com/Sagarpreet/react-leaflet-craft#a3d7eaf023a3b635f9f1868c64df265a6a64c368"
+
+react-leaflet-freedraw@0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/react-leaflet-freedraw/-/react-leaflet-freedraw-0.1.2.tgz#b03088ce3ad6247fd596e9d7283cd5745cd7d6d1"
+  integrity sha512-B72DiUcD5krzlVXGZHXwY43GPvm5HKCofdgvxhX3tGKziu186FwiT9jzRxbd7K9UxY5HKy++IpjBpJzUv/pWHw==
 
 react-leaflet@^2.2.1:
   version "2.5.0"

@@ -9,8 +9,10 @@
     "leaflet": "^1.1.0",
     "leaflet-ant-path": "^0.6.4",
     "leaflet-craft": "1.0.0",
+    "leaflet-freedraw": "2.12.0",
     "react-leaflet": "^2.2.1",
-    "react-leaflet-craft": "git://github.com/Sagarpreet/react-leaflet-craft#master"
+    "react-leaflet-craft": "git://github.com/Sagarpreet/react-leaflet-craft#master",
+    "react-leaflet-freedraw": "0.1.2"
   },
   "devDependencies": {
     "@types/react": "^16.7.18",
